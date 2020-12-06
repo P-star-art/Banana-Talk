@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+
+body{
+    font-family: 'East Sea Dokdo';
+}
+
+.navbar{
+    background-color: #f2c94c;
+    text-align: center;
+    margin: 0 ;
+}
+
+.nav-brand{
+    color: black;
+    font-size: 3rem;
+}
+
+.banner{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.about{
+    text-align: center;
+    margin-top: 3rem;
+    background-color: #E5E7EB;
+    font-size: larger;
+}
+
+.abt-txt{
+    font-size: 40px;
+}
+
+.input{
+    width: 100%;
+    display: block;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.output{
+    border: 2px solid black;
+    width: 100%;
+    display: block;
+    height: 100px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+footer{
+    background-color: #f2c94c;
+    text-align: center;
+}
+
+footer ul{
+    padding-inline-start: 0px;
+}
+
+footer > ul > li > a {
+    text-decoration: none;
+    padding-inline-start: 0px;
+    font-size: 30px;
+    color: black;
+}
+
+footer > ul > li {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
